@@ -17,7 +17,7 @@ I build modern, responsive websites and web applications with a focus on clean d
 </p>
 
 <p>
-  <a href="https://althaf.dev.lk">
+  <a href="https://althaf.tech">
     <img src="https://img.shields.io/badge/Portfolio-althaf.tech-0A66C2?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio">
   </a>
   <a href="https://www.linkedin.com/in/althafmam/">
