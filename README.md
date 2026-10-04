@@ -7,18 +7,18 @@
 I build modern, responsive websites and web applications with a focus on clean design, practical functionality, and great user experiences.
 
 <p>
-  <a href="https://github.com/althaf0414">
-    <img src="https://img.shields.io/github/followers/althaf0414?label=Followers&style=for-the-badge" alt="GitHub Followers">
+  <a href="https://github.com/althafmam">
+    <img src="https://img.shields.io/github/followers/althafmam?label=Followers&style=for-the-badge" alt="GitHub Followers">
   </a>
   <a href="https://github.com/althaf0414?tab=repositories">
-    <img src="https://img.shields.io/github/stars/althaf0414?label=Stars&style=for-the-badge" alt="GitHub Stars">
+    <img src="https://img.shields.io/github/stars/althafmam?label=Stars&style=for-the-badge" alt="GitHub Stars">
   </a>
-  <img src="https://komarev.com/ghpvc/?username=althaf0414&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views">
+  <img src="https://komarev.com/ghpvc/?username=althafmam&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views">
 </p>
 
 <p>
   <a href="https://althaf.dev.lk">
-    <img src="https://img.shields.io/badge/Portfolio-althaf.dev.lk-0A66C2?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio">
+    <img src="https://img.shields.io/badge/Portfolio-althaf.tech-0A66C2?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio">
   </a>
   <a href="https://www.linkedin.com/in/althafmam/">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
@@ -126,9 +126,9 @@ My personal developer portfolio showcasing my projects, skills, experience, educ
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=althaf0414&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="180" alt="GitHub Statistics">
+<img src="https://github-readme-stats.vercel.app/api?username=althafmam&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="180" alt="GitHub Statistics">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=althaf0414&layout=compact&theme=tokyonight&hide_border=true" height="180" alt="Top Languages">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=althafmam&layout=compact&theme=tokyonight&hide_border=true" height="180" alt="Top Languages">
 
 </div>
 
@@ -138,7 +138,7 @@ My personal developer portfolio showcasing my projects, skills, experience, educ
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=althaf0414&theme=tokyonight&hide_border=true" alt="GitHub Contribution Streak">
+<img src="https://streak-stats.demolab.com?user=althafmam&theme=tokyonight&hide_border=true" alt="GitHub Contribution Streak">
 
 </div>
 
@@ -148,7 +148,7 @@ My personal developer portfolio showcasing my projects, skills, experience, educ
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=althaf0414&theme=tokyo-night&hide_border=true" alt="GitHub Activity Graph">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=althafmam&theme=tokyo-night&hide_border=true" alt="GitHub Activity Graph">
 
 </div>
 
@@ -182,7 +182,7 @@ My personal developer portfolio showcasing my projects, skills, experience, educ
 
 <div align="center">
 
-<a href="https://althaf.dev.lk">
+<a href="https://althaf.tech">
 <img src="https://img.shields.io/badge/🌐%20Portfolio-Visit%20Website-0A66C2?style=for-the-badge" alt="Portfolio">
 </a>
 
@@ -190,7 +190,7 @@ My personal developer portfolio showcasing my projects, skills, experience, educ
 <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
 </a>
 
-<a href="https://github.com/althaf0414">
+<a href="https://github.com/althafmam">
 <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
 </a>
 
